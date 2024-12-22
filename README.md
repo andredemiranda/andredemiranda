@@ -1,4 +1,3 @@
-
 # 📣 *O INÍCIO DE TUDO É AQUI!!!*
 
 Vamos iniciar na área da Cybersecurity? Vamos Juntos!!!💻
@@ -14,16 +13,16 @@ Vamos nos conectar? 🛜
 
 ## 📚 Adquirindo Conhecimento:
 
-[🗺️ Cyber Security roadmap](#%EF%B8%8F-cyber-security-roadmap) <br>
-[🧥 Introdução a área de CyberSecurity](#-introdução-a-área-de-cybersecurity) <br>
-[💼 Carreiras na área de Cyber Security](#-Quais-Carreiras-na-área-de-CyberSecurity-posso-seguir?) <br>
-[🕵️‍♂️ Sites para estudar Cyber Security](#Como-estudar-para-CyberSecurity?) <br>
-[📃 Newsletters](#-newsletters-de-CyberSecurity) <br>
+[🗺️ Roadmap CyberSecurity](#Roadmap-CyberSecurity) <br>
+[🧥 Introdução a área de CyberSecurity](#introdução-a-área-de-cybersecurity) <br>
+[💼 Carreiras na área de CyberSecurity](#Quais-Carreiras-na-área-de-CyberSecurity-posso-seguir?) <br>
+[🕵️‍♂️ Sites para estudar CyberSecurity](#Como-estudar-para-CyberSecurity?) <br>
+[📃 Newsletters](#newsletters-de-CyberSecurity) <br>
 [🗃️ Awesome Hacking](#%EF%B8%8F-awesome-hacking) <br>
 [🎥 Canais do Youtube](#-canais-no-youtube) <br>
 [🔎 Ferramentas de busca](#-ferramentas-de-busca) <br>
 [📱 Ferramentas de Mobile](#-ferramentas-de-mobile) <br>
-[🎤 Podcasts](#-podcasts-de-CyberSecurity) <br>
+[🎤 Podcasts](#Podcasts-de-CyberSecurity) <br>
 [🃏 CheatSheets](#-cheatsheets) <br>
 [♟️ Exploitation](#%EF%B8%8F-exploitation) <br>
 [🚩 Capture the Flag](#-capture-the-flag) <br>
@@ -117,7 +116,7 @@ Vamos nos conectar? 🛜
 ## 📃 Newsletters de CyberSecurity
 
 - [API Security Newsletter](https://apisecurity.io/) - Notícias e vulnerabilidades de segurança da API.
-- [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) - Ferramentas, eventos, ameaças.
+- [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/) - Ferramentas, eventos e ameaças.
 - [The Hacker News](https://thehackernews.com/#email-outer) - Notícias de cibersegurança.
 - [CSO Online](https://www.csoonline.com/newsletters/signup.html) - Notícias, análises e pesquisas sobre segurança e gerenciamento de riscos.
 - [Naked Security](https://nakedsecurity.sophos.com/) - Como se proteger de ataques.
@@ -130,26 +129,6 @@ Vamos nos conectar? 🛜
 - [Awesome Honeypots](https://github.com/paralax/awesome-honeypots)
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
-- [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming)
-- [Awesome Security](https://github.com/sbilly/awesome-security)
-- [Awesome Privacy](https://github.com/Lissy93/awesome-privacy)
-- [Awesome Darknet](https://github.com/DarknetList/awesome-darknet)
-- [Awesome Tor](https://github.com/ajvb/awesome-tor)
-- [Awesome Mobile Security](https://github.com/vaib25vicky/awesome-mobile-security)
-- [Awesome Penetration Testing](https://github.com/enaqx/awesome-pentest)
-- [Awesome Pentesting Bible](https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE)
-- [Awesome Hacking Amazing Project](https://github.com/carpedm20/awesome-hacking)
-- [Awesome Pentest Tools](https://github.com/gwen001/pentest-tools)
-- [Awesome Forensic Tools](https://github.com/ivbeg/awesome-forensicstools)
-- [Awesome Android Security](https://github.com/ashishb/android-security-awesome)
-- [Awesome AppSec](https://github.com/paragonie/awesome-appsec)
-- [Awesome Asset Discovery](https://github.com/redhuntlabs/Awesome-Asset-Discovery)
-- [Awesome Bug Bounty](https://github.com/djadmin/awesome-bug-bounty)
-- [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
-- [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills)
-- [Awesome DevSecOps](https://github.com/devsecops/awesome-devsecops)
-- [Awesome Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security)
-- [Awesome Exploit Development](https://github.com/FabioBaroni/awesome-exploit-development)
 - [Awesome Fuzzing](https://github.com/secfigo/Awesome-Fuzzing)
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
 - [Awesome Industrial Control System](https://github.com/hslatman/awesome-industrial-control-system-security)
@@ -158,16 +137,6 @@ Vamos nos conectar? 🛜
 - [Awesome Mainframe Hacking](https://github.com/samanL33T/Awesome-Mainframe-Hacking)
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
 - [Awesome macOS and iOS Security Related Tools](https://github.com/ashishb/osx-and-ios-security-awesome)
-- [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools)
-- [Awesome PHP](https://github.com/ziadoz/awesome-php)
-- [Awesome Reversing](https://github.com/tylerha97/awesome-reversing)
-- [Awesome Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity)
-- [Awesome Security Talks](https://github.com/PaulSec/awesome-sec-talks)
-- [Awesome Serverless Security](https://github.com/puresec/awesome-serverless-security/)
-- [Awesome Social Engineering](https://github.com/v2-dev/awesome-social-engineering)
-- [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence)
-- [Awesome Vehicle Security](https://github.com/jaredthecoder/awesome-vehicle-security)
-- [Awesome Vulnerability Research](https://github.com/sergey-pronin/Awesome-Vulnerability-Research)
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)
 - [Awesome Advanced Windows Exploitation References](https://github.com/yeyintminthuhtut/Awesome-Advanced-Windows-Exploitation-References)
 - [Awesome Wifi Arsenal](https://github.com/0x90/wifi-arsenal)
@@ -182,16 +151,6 @@ Vamos nos conectar? 🛜
 - [Guia Anônima](https://www.youtube.com/user/adsecf) - Contéudo geral sobre Cyber Security
 - [Hak5](https://www.youtube.com/c/hak5) - Contéudo geral sobre Cyber Security
 - [The XSS rat](https://www.youtube.com/c/TheXSSrat) - Tudo sobre Bug Bounty
-- [ITProTV](https://www.youtube.com/c/ItproTv) - Contéudo geral sobre Cyber Security
-- [Infosec](https://www.youtube.com/c/InfoSecInstitute) - Conscientização sobre Cyber Security
-- [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT) - Conferências técnicas de cibersegurança.
-- [Professor Messer](https://www.youtube.com/c/professormesser) - Guias cobrindo certificações.
-- [Cyberspatial](https://www.youtube.com/c/Cyberspatial) - Educação e treinamento em segurança cibernética.
-- [OWASP Foundation](https://www.youtube.com/c/OWASPGLOBAL) - Conteúdo de segurança de aplicativos da Web.
-- [SANS Offensive Operations](https://www.youtube.com/c/SANSOffensiveOperations) - Vídeos técnicos de segurança cibernética.
-- [13Cubed](https://www.youtube.com/c/13cubed) - Vídeos sobre ferramentas, análise forense e resposta a incidentes.
-- [HackerSploit](https://www.youtube.com/c/HackerSploit) - Teste de penetração, hacking de aplicativos da web.
-- [Z-winK University](https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ) - Educação e demonstrações de bug bountys.
 - [Peter Yaworski](https://www.youtube.com/c/yaworsk1) - Dicas e entrevistas de hacking de aplicativos da Web.
 - [IppSec](https://www.youtube.com/c/ippsec) - Laboratórios e tutoriais de capture the flag, HackTheBox etc.
 - [Pentester Academy TV](https://www.youtube.com/c/PentesterAcademyTV) - Discussões e ataques demonstrativos.
@@ -249,10 +208,6 @@ Vamos nos conectar? 🛜
 - [Click Here](https://therecord.media/podcast/)
 - [Simply Cyber](https://www.simplycyber.io/podcast)
 - [OWASP Podcast](https://owasp.org/www-project-podcast/)
-- [We Talk Cyber](https://monicatalkscyber.com/)
-- [Risky Business](https://open.spotify.com/show/0BdExoUZqbGsBYjt6QZl4Q)
-- [Malicious Life](https://malicious.life/)
-- [Hacking Humans](https://thecyberwire.com/podcasts/hacking-humans)
 - [What The Shell](https://open.spotify.com/show/3QcBl6Yf1E3rLdz3UJEzOM)
 - [The 443 Security Simplified](https://www.secplicity.org/category/the-443/)
 - [Adventures of Alice and Bob](https://www.beyondtrust.com/podcast)
@@ -279,27 +234,12 @@ Vamos nos conectar? 🛜
 
 ## 🚩 Capture The Flag
 
-- [Hacker 101](https://www.hackerone.com/hackers/hacker101)
-- [PicoCTF](https://picoctf.org/)
 - [TryHackMe](https://tryhackme.com)
 - [HackTheBox](https://www.hackthebox.com/)
 - [VulnHub](https://www.vulnhub.com/)
 - [HackThisSite](https://hackthissite.org/)
 - [CTFChallenge](https://ctfchallenge.co.uk/)
 - [Attack-Defense](https://attackdefense.com/)
-- [Alert to win](https://alf.nu/alert1)
-- [Bancocn](https://bancocn.com/)
-- [CTF Komodo Security](https://ctf.komodosec.com/)
-- [CryptoHack](https://cryptohack.org/)
-- [CMD Challenge](https://cmdchallenge.com/http://overthewire.org/)
-- [Explotation Education](https://exploit.education/)
-- [Google CTF](https://lnkd.in/e46drbz8)
-- [Hackthis](https://www.hackthis.co.uk/)
-- [Hacksplaining](https://lnkd.in/eAB5CSTA)
-- [Hacker Security](https://lnkd.in/ex7R-C-e)
-- [Hacking-Lab](https://hacking-lab.com/)
-- [HSTRIKE](https://hstrike.com/)
-- [ImmersiveLabs](https://immersivelabs.com/)
 - [NewbieContest](https://lnkd.in/ewBk6fU5)
 - [OverTheWire](http://overthewire.org/)
 - [Practical Pentest Labs](https://lnkd.in/esq9Yuv5)
@@ -312,21 +252,10 @@ Vamos nos conectar? 🛜
 - [SANS Challenger](https://lnkd.in/e5TAMawK)
 - [SmashTheStack](https://lnkd.in/eVn9rP9p)
 - [The Cryptopals Crypto Challenges](https://cryptopals.com/)
-- [W3Challs](https://w3challs.com/)
-- [WeChall](http://www.wechall.net/)
-- [Zenk-Security](https://lnkd.in/ewJ5rNx2)
-- [Cyber Defenders](https://lnkd.in/dVcmjEw8)
-- [LetsDefend](https://letsdefend.io/)
-- [Vulnmachines](https://vulnmachines.com/)
-- [Rangeforce](https://www.rangeforce.com/)
-- [Ctftime](https://ctftime.org/)
-- [Pwn college](https://dojo.pwn.college/)
-- [Free Money CTF](https://bugbase.in/)
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 - [XSSGame](https://xss-game.appspot.com/)
 - [BugBountyHunter](https://www.bugbountyhunter.com/)
-- [DVWA](https://dvwa.co.uk/)
 - [bWAPP](http://www.itsecgames.com/)
 - [Metasploitable2](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/)
 
@@ -364,13 +293,8 @@ Vamos nos conectar? 🛜
 - [WPscan](https://wpscan.com/wordpress-security-scanner) - WordPress exploitation.
 - [Nikto](https://github.com/sullo/nikto) - Webserver scanning.
 - [HTTPX](https://github.com/projectdiscovery/httpx) - HTTP probing.
-- [Nuclei](https://github.com/projectdiscovery/nuclei) - YAML based template scanning.
-- [FFUF](https://github.com/ffuf/ffuf) - HTTP probing.
-- [Subfinder](https://github.com/projectdiscovery/subfinder) - Subdomain discovery.
 - [Masscan](https://github.com/robertdavidgraham/masscan) - Mass IP and port scanner.
-- [Lazy Recon](https://github.com/nahamsec/lazyrecon) - Subdomain discovery.
 - [XSS Hunter](https://xsshunter.com/) - Blind XSS discovery.
-- [Aquatone](https://github.com/michenriksen/aquatone) - HTTP based recon.
 - [LinkFinder](https://github.com/GerbenJavado/LinkFinder) - Endpoint discovery through JS files.
 - [JS-Scan](https://github.com/0x240x23elu/JSScanner) - Endpoint discovery through JS files.
 - [Parameth](https://github.com/maK-/parameth) - Bruteforce GET and POST parameters.
@@ -403,27 +327,6 @@ Vamos nos conectar? 🛜
 
 ## 🔨 Ferramentas para Hardware Hacking
 
-- [Multímetro Digital](http://s.click.aliexpress.com/e/_d8he3mb)
-- [Módulo conversor FT232RL Usb para TTL](http://s.click.aliexpress.com/e/_dSIAjWL)
-- [Ch341A](http://s.click.aliexpress.com/e/_d62fRI3)
-- [Bus Pirate](http://s.click.aliexpress.com/e/_dUPIrJ9)
-- [SOP8 Clip](http://s.click.aliexpress.com/e/_dVZ9XFN)
-- [Arduino Uno R3](http://s.click.aliexpress.com/e/_dW85MoT)
-- [Osciloscópio Instrustar](http://s.click.aliexpress.com/e/_d80YjJl)
-- [Arduino Nano](http://s.click.aliexpress.com/e/_dZj36oL)
-- [Arduino Uno R3](http://s.click.aliexpress.com/e/_dXsrRxz)
-- [Arduino Pro Micro](http://s.click.aliexpress.com/e/_dSSuhuX)
-- [Esp8266](http://s.click.aliexpress.com/e/_dVzK5qj)
-- [Esp32](http://s.click.aliexpress.com/e/_d7orFfH)
-- [Arduino Micro SS](http://s.click.aliexpress.com/e/_d8Vrda3)
-- [Digispark](http://s.click.aliexpress.com/e/_dZfgtbl)
-- [Proxmark3](http://s.click.aliexpress.com/e/_dUTFHmL)
-- [Gravador de RFID](http://s.click.aliexpress.com/e/_dTFhbsX)
-- [Esp8266](http://s.click.aliexpress.com/e/_d8lGkzd)
-- [Analisador Lógico](http://s.click.aliexpress.com/e/_d9e9PDD)
-- [Raspberry Pi 0 W](http://s.click.aliexpress.com/e/_Bf7UqZxN)
-- [Pickit 3]( http://s.click.aliexpress.com/e/_dYwoTqL)
-- [Ft232h](http://s.click.aliexpress.com/e/_dUpL9XN)
 - [Ft232h](http://s.click.aliexpress.com/e/_dVVWLrH)
 - [M5stickC](http://s.click.aliexpress.com/e/_dVbh4T1)
 - [M5 Atom](http://s.click.aliexpress.com/e/_dTaCid5)
@@ -443,8 +346,6 @@ Vamos nos conectar? 🛜
 
 ## 🐴 Sites e cursos para aprender MySQL
 
-- [SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial)
-- [SQLBolt](https://sqlbolt.com/)
 - [LinuxJedi](https://linuxjedi.co.uk/tag/mysql/)
 - [SQLCourse](https://www.sqlcourse.com/)
 - [CodeQuizzes](https://www.codequizzes.com/apache-spark/spark/datasets-spark-sql)
@@ -454,23 +355,14 @@ Vamos nos conectar? 🛜
 - [Tizag MySQL Tutorials](http://www.tizag.com/mysqlTutorial/)
 - [W3Schools SQL Tutorials](https://www.w3schools.com/sql/)
 - [SQL Basics Khan Academy](https://www.khanacademy.org/computing/computer-programming/sql)
-- [Phptpoint MySQL Tutorial](https://www.phptpoint.com/mysql-tutorial/)
-- [Curso de Banco de Dados MySQL](https://www.youtube.com/playlist?list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r)
-- [Curso de MySQL - Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNrWAQH2B_0AnrFY5dJcgOLR)
 - [Curso SQL Completo 2022 em 4 horas - Dev Aprender](https://www.youtube.com/watch?v=G7bMwefn8RQ&ab_channel=DevAprender)
 - [Curso Gratuito MySQL Server](https://www.youtube.com/playlist?list=PLiLrXujC4CW1HSOb8i7j8qXIJmSqX44KH)
 - [Curso de MySQL - Diego Moisset](https://www.youtube.com/playlist?list=PLIygiKpYTC_4KmkW7AKH87nDWtb29jHvN)
-- [Curso completo MySQL WorkBench](https://www.youtube.com/playlist?list=PLq-sApY8QuyeEq4L_ECA7yYgOJH6IUphP)
 - [Curso de MySQL 2022 - IS](https://www.youtube.com/playlist?list=PL-6S8_azQ-MrCeQgZ1ZaD8Be3EVW4wEKx)
 - [MySql/MariaDB - Do básico ao avançado](https://www.youtube.com/playlist?list=PLfvOpw8k80WqyrR7P7fMNREW2Q82xJlpO)
-- [Curso de PHP com MySQL](https://www.youtube.com/playlist?list=PLucm8g_ezqNrkPSrXiYgGXXkK4x245cvV)
 
 ## 🐧 Sites e cursos para aprender Linux
 
-- [Tecmint](https://www.tecmint.com/)
-- [Linuxize](https://linuxize.com/)
-- [nixCraft](https://www.cyberciti.biz/)
-- [It's FOSS](https://itsfoss.com/)
 - [Linux Hint](https://linuxhint.com/)
 - [FOSS Linux](https://www.fosslinux.com/)
 - [LinuxOPsys](https://linuxopsys.com/)
@@ -481,7 +373,6 @@ Vamos nos conectar? 🛜
 - [Linux Handbook](https://linuxhandbook.com/)
 - [Ryan's Tutorials](https://ryanstutorials.net/)
 - [LinuxFoundationX](https://www.edx.org/school/linuxfoundationx)
-- [Curso completo de Linux desde cero para principiantes](https://www.youtube.com/playlist?list=PL2Z95CSZ1N4FKsZQKqCmbylDqssYFJX5A)
 - [Curso Grátis Linux Ubuntu Desktop](https://www.youtube.com/playlist?list=PLozhsZB1lLUMHaZmvczDWugUv9ldzX37u)
 - [Curso Grátis Linux Ubuntu Server 18.04.x LTS](https://www.youtube.com/playlist?list=PLozhsZB1lLUOjGzjGO4snI34V0zINevDm)
 - [Curso de Linux Ubuntu - Portal Hugo Cursos](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxh3gfTUfr3BGmfuLUH4L-5Z)
@@ -494,21 +385,11 @@ Vamos nos conectar? 🛜
 
 - [Think Python](https://greenteapress.com/wp/think-python/)
 - [Think Python 2e](https://greenteapress.com/wp/think-python-2e/)
-- [A Byte of Python](https://python.swaroopch.com/)
-- [Cracking Codes With Python](https://inventwithpython.com/cracking/)
-- [Learn Python, Break Python](https://learnpythonbreakpython.com/)
-- [Google's Python Class](https://developers.google.com/edu/python)
-- [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/)
-- [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/)
-- [Microsoft's Introduction to Python Course](https://learn.microsoft.com/en-us/training/modules/intro-to-python/)
-- [Beginner's Guide to Python, Official Wiki](https://wiki.python.org/moin/BeginnersGuide)
 - [Python for Everybody Specialization, Coursera](https://www.coursera.org/specializations/python)
 - [Curso de Python - Bóson Treinamentos](https://www.youtube.com/playlist?list=PLucm8g_ezqNrrtduPx7s4BM8phepMn9I2)
 - [O Melhor Curso de Python - Zurubabel](https://www.youtube.com/playlist?list=PL4OAe-tL47sY8SGhtkGoP0eQd4le3badz)
 - [Curso de Python - Módulo Tkinter](https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE)
-- [Curso Selenium com Python - Eduardo Mendes](https://www.youtube.com/playlist?list=PLOQgLBuj2-3LqnMYKZZgzeC7CKCPF375B)
 - [Python - Curso Básico - João Ribeiro](https://www.youtube.com/playlist?list=PLXik_5Br-zO-vShMozvWZWdfcgEO4uZR7)
-- [Curso Analista de dados Python / Numpy / Pandas](https://www.youtube.com/playlist?list=PL3Fmwz_E1hXRWxIkP843DiDf0ZeqgftTy)
 - [Curso de Python Avançado - Portal Hugo Cursos](https://www.youtube.com/playlist?list=PLxNM4ef1Bpxj-fFV_rwrLlPA6eMvZZAXu)
 - [Python Tkinter - João Ribeiro](https://www.youtube.com/playlist?list=PLXik_5Br-zO_m8NaaEix1pyQOsCZM7t1h)
 - [Curso PYQT5 - Python - Desenvolvendo um sistema do zero](https://www.youtube.com/playlist?list=PLwdRIQYrHHU1MGlXIykshfhEApzkPXgQH)
@@ -526,16 +407,6 @@ Vamos nos conectar? 🛜
 - [Docker em 22 minutos - teoria e prática](https://www.youtube.com/watch?v=Kzcz-EVKBEQ&ab_channel=ProgramadoraBordo)
 - [Curso de Docker Completo - Cultura DevOps](https://www.youtube.com/playlist?list=PLdOotbFwzDIjPK7wcu4MBCZhm9Lj6mX11)
 
-## 🐼 Sites e cursos para aprender Assembly
-
-- [Assembly na Prática](https://www.youtube.com/playlist?list=PLxTkH01AauxRm0LFLlOA9RR5O6hBLqBtC)
-- [Curso de Assembly com Snes e Mega Drive](https://www.youtube.com/playlist?list=PLLFRf_pkM7b6Vi0ehPPovl1gQ5ubHTy5P)
-- [Curso de Assembly para PIC](https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt)
-- [Minicurso Programação Assembly x86 MASM32](https://www.youtube.com/playlist?list=PLmKKLDrwQKd6iL3rXIbIowc4GWMgYh_iH)
-- [Minicurso: Linguagem Assembly 8086 no DEBUG](https://www.youtube.com/playlist?list=PL838IdaPZmcsxX3HwxFSkxm5S_-4wqcYp)
-- [Curso de Assembly - Minilord](https://www.youtube.com/playlist?list=PLhkvr9d5St4VmgSpGoeXcQamYl8vBiMeH)
-- [Papo binario - Assembly](https://www.youtube.com/playlist?list=PLWHiAJhsj4eXi1AF6N5MYz61RcwSCoVO8)
-
 ## 🦞 Sites e cursos para aprender Powershell
 
 - [PowerShell - Fundamentos](https://www.youtube.com/playlist?list=PLO_mlVzHgDw3EIKrT5rma_rmC4Lcc7ihT)
@@ -549,12 +420,6 @@ Vamos nos conectar? 🛜
 - [Hardware Hacking - Julio Dellafora](https://www.youtube.com/playlist?list=PLmuhNadVlssg1fkJsQ5m2-gkv6TuRiXsY)
 - [Hardware Hacking Tutorial](https://www.youtube.com/playlist?list=PLoFdAHrZtKkhcd9k8ZcR4th8Q8PNOx7iU)
 - [Hardware Hacking Series](https://www.youtube.com/playlist?list=PLRovDyowOn5GZBvMGBRxFG_UrpdfFV6t5)
-- [Hardware hacking - Binary Freaks](https://www.youtube.com/playlist?list=PLL8bstVVO1fCsO46wrpYvgNqXTcDIxy4P)
-- [Hardware hacking - Ahmed](https://www.youtube.com/playlist?list=PLgfYdF0GSWDLpqFuBELfXgihiyw069z1s)
-- [Hardware Hacking - Penegui](https://www.youtube.com/playlist?list=PLfka6izM9ttCfWU8cFSLw7nMp_X7E4m7T)
-- [Hardware Hacking - Security Society](https://www.youtube.com/playlist?list=PLtU1gNI5NZU4b0kgP0uXvYYvTq6AEynzQ)
-- [Hardware Hacking - Roadsec](https://www.youtube.com/playlist?list=PLGdaaZUNDlN6ntfjur2GZPyQiR6-bU2_e)
-- [Hardware Hacking - Playlist](https://www.youtube.com/playlist?list=PL8F1MJo6GRXJZwD8v2MWM14vbL2MMMizr)
 - [Hardware Hacking - Javier Velez](https://www.youtube.com/playlist?list=PL-CQR8Wgnim98elyQnO0q9C9jxau_La1F)
 - [Hardware Hacking - 0xff7](https://www.youtube.com/playlist?list=PLqrCc-ayMEJOjANuyGLVl_hkqar8tbgma)
 - [Hardware Hacking - Sprocket](https://www.youtube.com/playlist?list=PLuhHV1PfaffZWzvcdH8OoCFSak2j4ppcn)
@@ -576,3 +441,5 @@ Vamos nos conectar? 🛜
 
 - [Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/)
   ![Logo](https://i.imgur.com/azUfcQp.png)
+
+  **Bons estudos!!**
