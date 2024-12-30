@@ -2,7 +2,7 @@
 
 Vamos iniciar na área da Cybersecurity? Vamos Juntos!!!💻
 
-Olá 😉, meu nome é André Miranda e sou um profissional de Redes e Infraestrutura migrando de carreira para a área de Cybersecurity.🛡️
+Olá 😉, meu nome é André Miranda sou um profissional de Redes e Infraestrutura migrando de carreira para a área de Cybersecurity.🛡️
 
 Vamos nos conectar? 🛜
 
